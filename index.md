@@ -62,8 +62,9 @@ ecrypt(unsigned char *inbuf, unsigned char *bookbuf, int cnt)
 
 ### Appendix
 
-[Back to Top](#about-me)
+*Linkedin Profile [here](https://www.linkedin.com/in/adam-connor-8708a5282/).*
 
 Go to [README](./README.md)
 
-*This site was built using [GitHub Pages](https://pages.github.com/).*
+[Back to Top](#about-me)
+
