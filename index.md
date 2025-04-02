@@ -4,6 +4,8 @@
 Hi, my name is Adam Connor and I'm a second year **Computer Science student at UC San Deigo** 
 and an active member of **SHPE** (Society of Hispanic Professional Engineers). 
 
+![Alt](https://studyabroad.ucsd.edu/_images/majors-maps/major-modules/cse-building.jpg)
+
 ### Relevant Coursework
 - [x] Advanced Data Structures
 - [x] Design and Analysis of Algorithms
@@ -24,6 +26,8 @@ Some of my interest within the field include:
 3. Cypersecurity
 4. Systems and Low-Level Programming
 
+![Alt](https://www.lawrence.edu/sites/default/files/styles/medium_16_9/public/2022-01/snapshot_compscience.jpg?h=8abcec71&itok=ERJ7l-gs)
+
 ### Languages
 Languages I'm have proficent coding experience in include: 
 - Java
@@ -33,7 +37,7 @@ Languages I'm have proficent coding experience in include:
 
 ### Project Example
 
-Below is a sample encryption algorithm build in C that uses bitwise manipulation
+Below is a sample encryption algorithm built in C that uses bitwise manipulation
 
 ``` C
 int
