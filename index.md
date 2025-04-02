@@ -2,9 +2,7 @@
 
 ## About Me
 Hi, my name is Adam Connor and I'm a second year **Computer Science student at UC San Deigo** 
-and an active member of **SHPE** (Society of Hispanic Professional Engineers).
-
-> 
+and an active member of **SHPE** (Society of Hispanic Professional Engineers). 
 
 ### Relevant Coursework
 - [x] Advanced Data Structures
@@ -42,7 +40,6 @@ int
 ecrypt(unsigned char *inbuf, unsigned char *bookbuf, int cnt)
 {
     if (cnt <= 0) return 0;
-    // your code here
     unsigned char *inptr = inbuf;
     unsigned char *bookptr = bookbuf;
     unsigned char currB;
